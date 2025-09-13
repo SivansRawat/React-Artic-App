@@ -1,4 +1,4 @@
-import React from 'react';
+
 import ArtworkTable from './components/ArtworkTable';
 
 const App = () => {
